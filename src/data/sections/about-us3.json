@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "image1": "/img/01.jpg",
+  "image2": "/img/02.jpg",
+  "exp": {
+    "nmb": 10,
+    "name": "Años de experiencia"
+  },
+  "title": { "first": "Unlimited Skills", "second": "for Super Projects." },
+  "content": {
+    "first": "Entendemos que cada negocio es único y especial, y creemos firmemente en el poder de tener una presencia online sólida para impulsar el crecimiento y la visibilidad. ",
+    "second": "Estamos emocionados de formar parte de tu viaje hacia el éxito en Internet y estamos ansiosos por construir contigo una marca sólida y memorable. Permítenos ayudarte a destacar en la era digital. ¡Juntos podemos lograrlo!"
+  },
+  "smallTitle": "Conócenos"
+}
